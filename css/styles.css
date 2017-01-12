@@ -1,0 +1,29 @@
+h1 {
+  color: #C70039;
+  font-family: arial black;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+
+h2 {
+  font-family: georgia, serif;
+  font-style: italic;
+  text-align: center;
+
+}
+
+h3 {
+  font-family: arial black;
+}
+
+p {
+  font-family: georgia,serif;
+}
+
+ul {
+  font-family: georgia, serif;
+  font-style: italic;
+  font-size: 15px;
+  line-height: 30px;
+}

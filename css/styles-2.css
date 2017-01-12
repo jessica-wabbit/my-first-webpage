@@ -1,0 +1,36 @@
+h1 {
+  color: #3FFF33;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 60px;
+  line-height: 65px;
+}
+
+h2 {
+  color: #33EFFF;
+  font-style: oblique;
+}
+
+h3 {
+  color: #33EFFF;
+  font-family: sans-serif;
+}
+
+ul {
+  color:  #FF33B1;
+  font-style: italic;
+  font-family: "Courier New", courier, monospace;
+}
+
+h3 {
+  line-height: 15px;
+}
+
+p {
+  font-family: "Courier New", courier, monospace;
+}
+
+ol {
+  color:  #FF33B1;
+  font-style: italic;
+  font-family: "Courier New", courier, monospace;
+}

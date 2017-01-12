@@ -1,0 +1,28 @@
+h1 {
+  color: #900C3F;
+  font-family: arial black;
+  font-size: 60px;
+  line-height: 65px;
+  text-align: left;
+}
+
+h2 {
+  font-family: georgia, serif;
+  color: #C70039;
+  font-style: italic;
+  text-align: left;
+}
+
+
+p {
+  font-family: georgia,serif;
+}
+
+ul {
+  color:  #FF5733;
+  font-style: italic;
+}
+
+body {
+  background-color: #D5D8DC;
+}
